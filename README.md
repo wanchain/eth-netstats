@@ -16,7 +16,7 @@ Make sure you have node.js and npm installed.
 Clone the repository and install the dependencies
 
 ```bash
-git clone https://github.com/cubedro/eth-netstats
+git clone https://github.com/wanchain/eth-netstats
 cd eth-netstats
 npm install
 npm run-script updatedb　(optional: update geoip-lite database to latest)
